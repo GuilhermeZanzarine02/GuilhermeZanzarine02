@@ -5,6 +5,8 @@
 
 ![Zanzarine GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeZanzarine02&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZanzarine02)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que utilizo no meu dia a dia
 
 <div style = "display: inline_block"><br/>
