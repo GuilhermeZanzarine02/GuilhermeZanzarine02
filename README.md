@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-duarte-zanzarine-leme-ti/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zanzarinegui_/profilecard/?igsh=dDRscWd0OHRsaDZw)
 
-
+![Zanzarine GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeZanzarine02&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que utilizo no meu dia a dia
 
